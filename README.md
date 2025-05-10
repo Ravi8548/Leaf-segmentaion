@@ -1,5 +1,5 @@
 **Project Title:**
-**Advanced Leaf Segmentation Using Hybrid Computer Vision Techniques**
+**Advanced Leaf Segmentation Using Computer Vision Techniques**
 
 ---
 
